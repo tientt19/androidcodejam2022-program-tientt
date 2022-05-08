@@ -6,8 +6,7 @@ import android.os.Bundle
 import android.widget.*
 import java.text.NumberFormat
 
-@SuppressLint("UseSwitchCompatOrMaterialCode")
-
+ 
 class MainActivity : AppCompatActivity() {
     // layout components
     private val costTextField: EditText = findViewById(R.id.cost_of_service)
